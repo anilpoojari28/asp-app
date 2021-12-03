@@ -1,1 +1,3 @@
 Git is a great toll for SCM
+Git hub is managed by Microsoft and a widely used all over the world for history manaagement
+
