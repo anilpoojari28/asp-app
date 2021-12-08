@@ -3,3 +3,4 @@ DOB:  29/11/2019
 DOB Place: Mangalore
 Mother : Sowmya Anil
 Father : Anil Poojari
+Religion : Hindu
