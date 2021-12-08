@@ -5,3 +5,4 @@ Mother : Sowmya Anil
 Father : Anil Poojari
 Religion : Hindu
 Country : India
+Time Zone : +5
